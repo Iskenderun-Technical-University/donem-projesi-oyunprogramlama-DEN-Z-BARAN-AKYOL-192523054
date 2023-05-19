@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/gTiETg9a)
 Oyun Tasarımı
 21 blackjack, klasik bir kart oyunudur. Oyunun amacı, krupiyenin elindeki kartlardan daha yüksek bir toplam değere sahip bir el oluşturmaktır. Ancak, el toplamı 21'i aşarsa, oyun otomatik olarak kaybedilir. Oyun genellikle 1-8 desteli bir desteyle oynanır ve krupiye oyunculara karşı oynar.
 
